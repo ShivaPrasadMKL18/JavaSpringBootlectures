@@ -1,0 +1,1 @@
+1) Calculate airthmetic operations using switch case, if-elseif-else and return the solution.
